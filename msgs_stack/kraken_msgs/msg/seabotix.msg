@@ -1,2 +1,2 @@
 Header header
-uint8[6] data
+uint8[12] data
