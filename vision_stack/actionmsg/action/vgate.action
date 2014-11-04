@@ -1,8 +1,10 @@
-#goal definition
+#goal
 int32 order
+
 ---
-#result definition
+#result 
 int32[] sequence
+
 ---
 #feedback
 int32 errorx

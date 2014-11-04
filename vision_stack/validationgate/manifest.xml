@@ -1,0 +1,21 @@
+<package>
+  <description brief="validationgate">
+
+     validationgate
+
+  </description>
+  <author>shyam</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/validationgate</url>
+ <depend package="roscpp"/>
+  <depend package="opencv2"/>
+  <depend package="actionlib"/>
+  <depend package="ip_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="image_transport"/>
+  <depend package="cv_bridge"/>
+  <depend package="resources"/>
+</package>
+
+
